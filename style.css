@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffff;
+    
+    
+}
+
+nav{
+    top: 0;
+    width: 100%;
+    background-color: #00000000;
+    padding: 0px;
+    box-sizing:content-box
+}
+
+
+
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+    font-size: 20px;
+    padding: 40px;
+    
+}
+
+
+
+.button{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 3px;
+    font-size: 20px;
+    
+}
+
+.button2{
+    background-color: #000000;
+    color: #ffffff;
+    height: 50px;
+    width: 150px;
+    border-radius: 4px;
+    margin: 20px;
+    margin: 0px 70px;
+   border: none;
+    
+}
+
+   .container{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #e8ebf5;
+    border-radius: 30px;
+   }
+   
+   .pandora{
+    background-color: #e6c744;
+    line-height: 60px;
+    width: 365px;
+   }
+
+   .vamos{
+    background-color: #ffffff;
+    width: 320px;
+   }
+
+.imagem img{
+  height: 500px;
+  width: 500px;
+  
+  
+}
+
+.container2 {
+display: flex;
+justify-content: space-around;
+height: 90px;
+width: 100%;
+background-color: #e6c744;
+
+}
+.container2 img{
+    
+    height: 50px;
+    
+}
+
+
+
+    h1{
+        font-size: 5em;
+        margin: 0px 30px;
+        padding: 50px;
+    }
+
+    h2{
+        margin: 0px 30px;
+        padding: 50px;
+        
+
+    }
+
